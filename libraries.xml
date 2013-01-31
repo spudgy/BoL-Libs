@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<libraries>
-    <library url="..." md5="" />
-</libraries>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<libraries> 
+    <library url="https://raw.github.com/spudgy/BoL-Libs/master/libraries/Packet.lua" md5="DEC79EFE7CDEFA5C1C83BAF32AE15B20" /> 
+</libraries> 
